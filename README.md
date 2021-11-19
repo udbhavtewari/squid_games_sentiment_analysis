@@ -1,4 +1,5 @@
 # squid_games_sentiment_analysis
+![This is an image](https://image.scoopwhoop.com/w1200-h667-cfix/https://s4.scoopwhoop.com/anj2/6156a3188a373a1f9294f868/8125c2da-1b04-4a4d-8820-55969bf17164.jpg) <br /> 
 We all saw the massive popularity of Squid Games on Netflix. Since I was an exception, I decided to run a sentiment analysis to see whether it was worth the hype or not.
 The sentiment analysis was done broadly in 3 parts.  
 
