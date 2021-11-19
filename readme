@@ -1,0 +1,7 @@
+The sentiment analysis was done broadly in 3 parts.
+Part I ) Scrapping of Squid Games reviews from IMDB website
+I scrapped 1600 reviews from the IMDB website 
+Part II) Cleaning of the data
+Part III) Running the sentiment analysis 
+[I'm an inline-style link](https://www.google.com)
+This site was built using [GitHub Pages](https://pages.github.com/). 
